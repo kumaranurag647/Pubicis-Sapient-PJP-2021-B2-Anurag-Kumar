@@ -1,1 +1,0 @@
-This is week-1, version-1, inside B.txt.
